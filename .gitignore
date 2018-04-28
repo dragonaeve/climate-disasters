@@ -1,2 +1,4 @@
 #ignore folder pycache
 __pycache__/
+#ignore readme
+README.md
